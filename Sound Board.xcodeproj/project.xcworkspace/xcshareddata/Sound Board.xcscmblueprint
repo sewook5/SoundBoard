@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CC4168708F121B016683B535BDFBD351D4B8AAAA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8CB130CB9D89F581D9F2C63768820FE7EED04477" : 9223372036854775807,
+    "CC4168708F121B016683B535BDFBD351D4B8AAAA" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "99A63A0C-A67F-4F84-8C52-DE4219563DC2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8CB130CB9D89F581D9F2C63768820FE7EED04477" : "",
+    "CC4168708F121B016683B535BDFBD351D4B8AAAA" : "Sound%20Board\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Sound Board",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Sound Board.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sewook5\/swift-app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8CB130CB9D89F581D9F2C63768820FE7EED04477"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:sewook5\/SoundBoard.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CC4168708F121B016683B535BDFBD351D4B8AAAA"
+    }
+  ]
+}
